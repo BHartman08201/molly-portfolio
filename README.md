@@ -21,7 +21,7 @@ To publish, choose Settings → Pages → Deploy from a branch → main → /(ro
 
 Official instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
-GitHub Pages publishing has not been enabled by this change. A private repository requires a qualifying paid GitHub plan for Pages; do not change repository visibility automatically.
+Published on GitHub Pages: https://bhartman08201.github.io/molly-portfolio/ (main branch, repository root).
 
 ## Content still to confirm
 
@@ -31,5 +31,4 @@ GitHub Pages publishing has not been enabled by this change. A private repositor
 - Recovered viewing links are preserved; playback availability has not been verified.
 - Sins of the Father uses the user-confirmed 2024; Sleight of Hand uses 2025.
 
-No résumé or reel link is shown because neither has been supplied.
-
+The supplied résumé is available in About and Contact at assets/documents/molly-hartman-resume.pdf. No reel link has been supplied.
