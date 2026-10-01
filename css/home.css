@@ -7,7 +7,7 @@
     --purple: #807CAB;
     --muted: #b0b0bb;
     --line: #807cab55;
-    --display: 'Barlow Condensed', 'Arial Narrow', sans-serif
+    --display: 'ABeeZee', Arial, sans-serif
 }
 
 * {
@@ -23,7 +23,7 @@ body {
     margin: 0;
     background: var(--bg);
     color: var(--text);
-    font-family: Inter, Arial, sans-serif;
+    font-family: 'ABeeZee', Arial, sans-serif;
     line-height: 1.6
 }
 
