@@ -507,7 +507,7 @@ dd {
     }
 
     .logo {
-        font-size: 22px
+        font-size: 18px
     }
 
     .site-header nav {
@@ -526,7 +526,9 @@ dd {
     }
 
     .hero h1 {
-        font-size: clamp(90px, 19vw, 135px)
+        font-size: clamp(68px, 18vw, 135px);
+
+        
     }
 
     .hero-credit {
